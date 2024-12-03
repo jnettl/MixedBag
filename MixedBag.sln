@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedBagLib", "MixedBagLib\MixedBagLib.csproj", "{FF56E9E6-7DB9-42D6-9F8B-312D29E72D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedBagWeb", "MixedBagWeb\MixedBagWeb.csproj", "{14933681-E42C-4614-B88A-F6A9F86B1311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedBagCli", "MixedBagCli\MixedBagCli.csproj", "{7C3963BE-A610-4B0C-92C7-DE7CADCF610E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF56E9E6-7DB9-42D6-9F8B-312D29E72D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF56E9E6-7DB9-42D6-9F8B-312D29E72D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF56E9E6-7DB9-42D6-9F8B-312D29E72D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF56E9E6-7DB9-42D6-9F8B-312D29E72D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14933681-E42C-4614-B88A-F6A9F86B1311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14933681-E42C-4614-B88A-F6A9F86B1311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14933681-E42C-4614-B88A-F6A9F86B1311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14933681-E42C-4614-B88A-F6A9F86B1311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3963BE-A610-4B0C-92C7-DE7CADCF610E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3963BE-A610-4B0C-92C7-DE7CADCF610E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3963BE-A610-4B0C-92C7-DE7CADCF610E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3963BE-A610-4B0C-92C7-DE7CADCF610E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
